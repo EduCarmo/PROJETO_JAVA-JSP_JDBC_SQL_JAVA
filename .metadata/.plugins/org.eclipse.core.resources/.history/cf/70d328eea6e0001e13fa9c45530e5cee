@@ -1,0 +1,23 @@
+package dao;
+
+import java.sql.Connection;
+
+import connection.SingleConnectionBanco;
+import model.ModelLogin;
+
+public class DaoLoginRepository {
+
+	private Connection connection;
+	
+	public DaoLoginRepository() {
+		connection = SingleConnectionBanco.getConnection();
+	}
+	
+	public boolean validarAutenticacao(ModelLogin modelLogin) {
+		
+		String sql = "";
+		
+		return true;
+		
+	}
+}

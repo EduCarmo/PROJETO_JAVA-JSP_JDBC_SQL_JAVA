@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+E:\Eduardo\Formação Java Web Full Stack\PROJETO_JAVA JSP_JDBC_SQL_JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3897528423.index
+\curso-jsp\src\main\java
+E:\Eduardo\Formação Java Web Full Stack\PROJETO_JAVA JSP_JDBC_SQL_JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1239803670.index
+\curso-jsp\src\main\java

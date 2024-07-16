@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\Eduardo\Formação Java Web Full Stack\PROJETO_JAVA JSP_JDBC_SQL_JAVA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+272509437.index
+3964855624.index
+2351906816.index
+2819050416.index
+1377093950.index
+1875906760.index
+3897528423.index
